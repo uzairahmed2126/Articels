@@ -1,0 +1,119 @@
+        body {
+            background-color: rgb(150, 150, 218);
+
+
+        }
+
+        .form-1 {
+            background-color: rgb(32, 50, 66);
+            color: white;
+            width: 70%;
+            font-size: 25px;
+            border-radius: 10px;
+        }
+
+        .c1,
+        .c5 {
+            font-size: 50px;
+            border-radius: 10px;
+            width: auto;
+
+        }
+
+        .c2,
+        .c6 {
+            font-size: 30px;
+            border-radius: 14px;
+            background-color: gray;
+            color: white;
+            width: 20%;
+
+        }
+
+
+        .form-2,
+        .form-4 {
+            background-color: rgb(32, 50, 66);
+            color: white;
+            width: 70%;
+            font-size: 25px;
+            border-radius: 10px;
+        }
+
+        .c3 {
+            font-size: 30px;
+        }
+
+        .heading {
+            font-size: 50px;
+            background-color: aliceblue;
+            border-radius: 5px;
+            width: 70%;
+        }
+
+        .paragraph {
+            font-size: 30px;
+            background-color: rgb(221, 231, 240);
+            border-radius: 5px;
+            width: 70%;
+        }
+
+        .form-3 {
+            background-color: aliceblue;
+            width: 70%;
+            border-radius: 10px;
+
+        }
+
+        .c4 {
+            font-size: 40px;
+
+        }
+
+        .c4:hover {
+            color: green;
+            background-color: lightgreen;
+        }
+
+  
+
+
+
+        .c7 {
+            font-size: 30px;
+            border-radius: 10px;
+            width: auto;
+
+        }
+
+        .c8 {
+            font-size: 30px;
+            border-radius: 14px;
+            background-color: gray;
+            color: white;
+            width: 20%;
+
+        }
+
+        .c8:hover {            
+            color: black;
+        }
+
+
+        .form-5 {
+            background-color: aliceblue;
+            width: 70%;
+            border-radius: 10px;
+
+        }
+
+        
+
+        .c9 {
+            background-color: gray;
+            color: white;
+            font-size: 24px;
+            border-radius: 12px;
+        }
+
+        
